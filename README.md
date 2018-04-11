@@ -1,6 +1,6 @@
 # certbot-helper-dns-dozens
 
-Let's Encrypt のSSL/TLS サーバ証明書をCertbotで取得する際、[「Dozens（ダズンズ）」](https://dozens.jp/i/OaU0TF)を利用したDNSによる認証を自動化するための Python スクリプトです。(内部でcurlを使用しています。)「Dozens（ダズンズ）」](https://dozens.jp/i/OaU0TF)は無料でも使えるDNSサービスです。
+Let's Encrypt のSSL/TLS サーバ証明書をCertbotで取得する際、[「Dozens（ダズンズ）」](https://dozens.jp/i/OaU0TF)を利用したDNSによる認証を自動化するための Python スクリプトです。(内部でcurlを使用しています。)[「Dozens」](https://dozens.jp/i/OaU0TF)は無料でも使えるDNSサービスです。
 
 <!-- ## Description -->
 
